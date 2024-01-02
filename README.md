@@ -1,5 +1,3 @@
-Here is a draft README file for the project based on the information in the document:
-
 # Predictive Analytics for Medical Insurance Cost
 
 ## Overview
